@@ -7,11 +7,10 @@
 ## Who is Felipe Farias?
 
 - 🎓 Técnico em Desenvolvimento de Sistemas
-- 💻 Atualmente estudando JavaScript, Node.js e desenvolvimento web
+- 💻 Atualmente estudando FullStack com Java.
 - 📚 Leitor de clássicos, filosofia e economia
 - 🏴‍☠️ Aspirante a polímata
-- 🧠 Tenho o péssimo hábito de transformar uma dúvida em 15 horas de pesquisa
-- ⚙️ Atualmente: tentando fazer o código funcionar sem saber exatamente por quê
+
 
 ---
 
@@ -29,12 +28,12 @@
 
 ### Currently learning
 
-`JavaScript` · `Node.js` · `Vite` · `Git` · `Web Development`
+`JavaScript` · `React` · `Vite` · `Git` · `Web Development`
 
 ---
 
 <div align="center">
 
-**"It works on my machine."**
+**"Know thyself."**
 
 </div>
